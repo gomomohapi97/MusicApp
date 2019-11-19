@@ -17,10 +17,14 @@ namespace MusicApp.Controllers
         {
             _logger = logger;
         }
+
         /// <summary>
-        /// Hello
+        /// Hello Brah
         /// </summary>
         /// <returns></returns>
+        /// 
+
+
         public IActionResult Index()
         {
             return View();
