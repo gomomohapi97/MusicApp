@@ -19,7 +19,7 @@ namespace MusicApp.Controllers
         }
 
         /// <summary>
-        /// Hello Brah
+        /// Hello
         /// </summary>
         /// <returns></returns>
         /// 
