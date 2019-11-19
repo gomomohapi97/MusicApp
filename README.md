@@ -1,5 +1,5 @@
 # MusicApp
 
-##Nkulu's Tasks
+## Nkulu's Tasks
 
-##Gomo's Tasks
+## Gomo's Tasks
